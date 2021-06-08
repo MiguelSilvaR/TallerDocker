@@ -1,0 +1,5 @@
+Comando utilies para eliminar
+https://www.freecodecamp.org/news/how-to-remove-images-in-docker/
+
+Entrypoint vs CMD
+https://programacionymas.com/blog/docker-diferencia-entrypoint-cmd
