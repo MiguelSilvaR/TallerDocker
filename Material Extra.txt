@@ -3,3 +3,9 @@ https://www.freecodecamp.org/news/how-to-remove-images-in-docker/
 
 Entrypoint vs CMD
 https://programacionymas.com/blog/docker-diferencia-entrypoint-cmd
+
+Docker Prune
+https://docs.docker.com/engine/reference/commandline/builder_prune/
+
+Docker Compose
+https://docs.docker.com/compose/
